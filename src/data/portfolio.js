@@ -1,14 +1,26 @@
 export default [
     {
-        title: "Terminal Website",
-        imgUrl: "/assets/...", //TODO: get images from assets
-        stack: ["HTML", "CSS", "JS"],
-        link: ""
-    },
-    {
         title: "Developer Portfolio",
         imgUrl: "/assets/...", //TODO: get images from assets
         stack: ["HTML", "CSS", "JS"],
-        link: ""
+        link: "https://orkunalpunlu.com"
+    },
+    {
+        title: "Terminal Website",
+        imgUrl: "/assets/...", //TODO: get images from assets
+        stack: ["HTML", "CSS", "JS"],
+        link: "https://terminal.web.app"
+    },
+    {
+        title: "RogueLike Game",
+        imgUrl: "/assets/...", //TODO: get images from assets
+        stack: ["Unity", "C#"],
+        link: "https://github.com/oaunlu/RogueLike"
+    },
+    {
+        title: "Facebook Clone",
+        imgUrl: "/assets/...", //TODO: get images from assets
+        stack: ["HTML", "CSS", "JS"],
+        link: "https://github.com/oaunlu/facebook-clone"
     }
 ]
